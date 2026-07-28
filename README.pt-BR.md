@@ -1,6 +1,6 @@
-Extensão do Nautilus para Criar Documento de Texto
+*🇺🇸 [Read this document in English](README.md)*
 
-🇺🇸 English: README.md
+Extensão do Nautilus para Criar Documento de Texto
 
 Uma extensão leve para o Nautilus que adiciona a opção "Novo Documento de Texto..." ao menu de contexto ao clicar com o botão direito em uma área vazia de uma pasta.
 

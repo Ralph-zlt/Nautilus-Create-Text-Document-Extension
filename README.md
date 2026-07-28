@@ -1,4 +1,4 @@
-*🇧🇷 [Leia este documento em Português](README.pt-br.md)*
+*🇧🇷 [Leia este documento em Português](README.pt-BR.md)*
 
 Nautilus Create Text Document Extension
 

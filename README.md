@@ -1,6 +1,7 @@
+*🇧🇷 [Leia este documento em Português](README.pt-br.md)*
+
 Nautilus Create Text Document Extension
 
-🇧🇷 Português: README.pt-BR.md
 
 A lightweight Nautilus extension that adds a "New Text Document..." option to the folder background context menu.
 

@@ -18,21 +18,26 @@ nautilus-python
 zenity
 Installation
 
+## Installation
+
 Clone the repository:
 
-*git clone https://github.com/Ralph-zlt/Nautilus-Create-Text-Document-Extension.git
+```bash
+git clone https://github.com/Ralph-zlt/Nautilus-Create-Text-Document-Extension.git
 cd Nautilus-Create-Text-Document-Extension
-
+```
 
 Make the installer executable:
 
+```bash
 chmod +x nautilusdocext.sh
-*
+```
 
 Run the installer:
-*
+
+```bash
 ./nautilusdocext.sh
-*
+```
 
 The installer automatically restarts Nautilus.
 

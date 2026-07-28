@@ -20,19 +20,19 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/Ralph-zlt/Nautilus-Create-Text-Document-Extension.git
+*git clone https://github.com/Ralph-zlt/Nautilus-Create-Text-Document-Extension.git
 cd Nautilus-Create-Text-Document-Extension
 
 
 Make the installer executable:
 
 chmod +x nautilusdocext.sh
-
+*
 
 Run the installer:
-
+*
 ./nautilusdocext.sh
-
+*
 
 The installer automatically restarts Nautilus.
 
